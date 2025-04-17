@@ -1,6 +1,6 @@
 # Installation
 Run the following command to clone the repository
-```
+```ss
 git clone https://github.com/alokyadav1/mern-todo-app.git
 ```
 Go to ```frontend``` and ```backend``` directory to install packages
